@@ -1,0 +1,1 @@
+Assignments belongs to javaScript.
